@@ -1,0 +1,3 @@
+file1 dosyasinin ici dolu
+
+bu haliyle kaydedildikten sonra deisiklik yapilacak ve sonra gitignore yapilacak
